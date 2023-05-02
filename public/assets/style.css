@@ -1,0 +1,31 @@
+body,html {
+    background-color: #e4e6c3;
+}
+form{
+    background-color: #899878;
+    max-width: 600px;
+    margin: auto;
+    padding: 60px 100px;
+    border-bottom-left-radius: 100px;
+    border-top-right-radius: 100px;
+    box-shadow: #e4e6c3;
+}
+label{
+    color: #fafcfc;
+}
+.btn-dark{
+    background-color: #3c454c;
+    border-radius: 100px;
+}
+.btn-primary{
+    border-radius: 100px;
+}
+.form-name {
+    text-align: center;
+    font-size: 40px;
+    color: #f7f7f2;
+    height: 100px;
+    margin: auto;
+    margin-bottom: 25px;
+    line-height: 80px;
+}

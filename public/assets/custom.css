@@ -1,0 +1,12 @@
+/*=========sidebar---design------*/
+body,html{
+    background-color: #e4e6c3;
+}
+.col-auto{
+    background-color: #222725;
+}
+span{
+    color: #fafcfc;
+    font-weight:400;
+}
+/*=========sidebar---design- end-----*/
